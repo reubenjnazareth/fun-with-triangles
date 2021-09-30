@@ -1,0 +1,51 @@
+body {
+    background-color:  rgb(205, 177, 231);
+}
+
+
+
+.nav {
+  background-color: rgb(176, 110, 238);
+  height: 2.6vh;
+  text-align:center;
+  border-radius: 2rem;
+  margin-top: 2rem;
+  
+}
+
+
+.nav .link {
+    color: black;
+    text-decoration: none;
+    padding: 0.3rem;
+}
+
+.nav .link-active {
+    font-weight: bolder;
+}
+
+h1 {
+
+}
+
+input, button {
+    display: block;
+    margin: auto;
+    padding:1rem;
+    margin-top: 0.5rem;
+    border-radius: 0.5rem;
+}
+
+button {
+    background-color: rgb(176, 110, 238);
+    cursor: pointer;
+}
+
+*{
+    text-align: center;
+}
+
+#output {
+    margin-top: 2rem;
+    font-size: 5vh;
+}
